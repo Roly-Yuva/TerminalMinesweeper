@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzQO+Cb0avXUunIOMPWKv0ET4Dr/2nteYRhZcrcb6TbvP/cmB6n6SzdiiKD+fXqQd1+qs3V9zCtrfsZqbf5HMg==",
+  "success": true,
+  "projectFilePath": "/home/aleda/programs/TerminalMinesweeper/TerminalMinesweeper.csproj",
+  "expectedPackageFiles": [
+    "/home/aleda/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
