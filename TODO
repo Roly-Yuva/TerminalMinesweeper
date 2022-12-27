@@ -1,2 +1,1 @@
 - Fix issue to allow rectangular boards to be generated
-- Add the ability to press ConsoleKey.F to place a flag, printing 'F' at the flag's location and preventing further interaction with the tile unless ConsoleKey.F is pressed again
